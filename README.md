@@ -1,2 +1,2 @@
-# rock-paper-scissors
+enjoy playing rock-paper-scissors 
 https://nesrine-ati.github.io/rock-paper-scissors/
